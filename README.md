@@ -31,5 +31,4 @@ Mi nombre es __*Oriol*__ y estoy en la 301
 ````
 
 [link] (URL "Texto alternativo")
-
-[Enlace a Wikipedia](https://es.wikipedia.org "Haciendo click vas a la WIKIPEDIA)
+[Enlace a Wikipedia](https://es.wikipedia.org"Haciendo click vas a la WIKIPEDIA)
