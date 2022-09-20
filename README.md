@@ -35,3 +35,9 @@ Mi nombre es __*Oriol*__ y estoy en la 301
 [Enlace a wikipedia](https://es.wikipedia.org "Haciendo click vas a la WIKIPEDIA")
 
 ![google](https://user-images.githubusercontent.com/113420705/191205772-9891401d-f84d-4d89-bf7a-7c4130f8d378.png)
+
+| Encabezado 1 | Encabezado 2 | Encabezado 3 |
+| ------------ | :----------: | -----------: |
+| Item1        | Bolígrafos   | 20           |
+| Item2        | Lápices      | 50           |
+| Item3        | Grapadoras   | 80           |
