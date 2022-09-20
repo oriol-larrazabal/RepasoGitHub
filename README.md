@@ -29,3 +29,6 @@ Mi nombre es __*Oriol*__ y estoy en la 301
   </head>
  </html>
 ````
+
+[link] (URL "Texto alternativo")
+[Enlace a Wikipedia] (https://es.wikipedia.org "Haciendo click vas a la WIKIPEDIA)
