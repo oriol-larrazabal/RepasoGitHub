@@ -17,6 +17,6 @@ Mi nombre es __*Oriol*__ y estoy en la 301
 * Primer elemento lista desordenada
 * Segundo elemento lista desordenada
 
--. Otra lista desordenada
--. Segundo elemento lista desordenada
+- Otra lista desordenada
+- Segundo elemento lista desordenada
 
